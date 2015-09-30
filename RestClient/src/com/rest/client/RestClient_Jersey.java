@@ -22,9 +22,9 @@ public class RestClient_Jersey {
 //	
 //	RestPerson restPersonObj = new RestPerson();
 //	restPersonObj.setId("1234");
-//	restPersonObj.setName("Alex");
-//	
+//	restPersonObj.setName("Alex");	
 // This is rest jersey client. Added by Karuna
+// Extra comments
 //	/*WebTarget target = client.target("http://localhost:8080/restService/rest/getTest");
 //	
 //	RestPerson restPerson = target.request().accept(MediaType.APPLICATION_JSON).get(RestPerson.class);
