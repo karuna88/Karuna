@@ -24,6 +24,7 @@ public class RestClient_Jersey {
 //	restPersonObj.setId("1234");
 //	restPersonObj.setName("Alex");
 //	
+// This is jersey client
 //	/*WebTarget target = client.target("http://localhost:8080/restService/rest/getTest");
 //	
 //	RestPerson restPerson = target.request().accept(MediaType.APPLICATION_JSON).get(RestPerson.class);
