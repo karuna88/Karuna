@@ -27,6 +27,7 @@ import com.rest.vo.RestPerson;
 @Component("restClient")
 public class RestClient {
 	
+	// Git test commit
 	public void testClient()
 	{
 		HttpClient httpClient = new HttpClient();
